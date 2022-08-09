@@ -86,7 +86,7 @@ aplayer:
 
 douban:
   user: 183065954
-  builtin: false
+  builtin: true
   movie:
     title: 'This is my movie title'
     quote: 'This is my movie quote'
